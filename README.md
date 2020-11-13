@@ -3,11 +3,11 @@ Perform Divisive hierarchical clustering and plot the dendrogram obtained and fi
 
 Requirements:<br/>
 ```
-pip install matplotlib<br/>
-pip install seaborn<br/>
-pip install pandas<br/>
-pip install numpy<br/>
-pip install scipy<br/>
-pip install sklearn<br/>
+pip install matplotlib
+pip install seaborn
+pip install pandas
+pip install numpy
+pip install scipy
+pip install sklearn
 ```
 dataset link: https://www.kaggle.com/uciml/iris
